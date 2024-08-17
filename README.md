@@ -2,15 +2,15 @@
 <h3 align="center">An aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🌱 I’m currently learning **React and Bootstrap**
+- 🌱 I’m currently learning **PowerBI and Tableau**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Dharmendra123rj)
 
-- 💬 Ask me about **HTML, CSS, Javascript, EDA, Visualization, Python, Feature Engineering,...etc.**
+- 💬 Ask me about **Python,SQL,Excel,C/C++,HTML, CSS, Javascript.**
 
 - 📫 Reach me via **dharmendraraj776692@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1-NYM8DdBFUAKOZjVPGyA7cTRdsEeVTbE/view?usp=drivesdk )
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1c7CKpblHb_RZQATT-cCPryiZ1BqJ_J1d/view?usp=drive_link )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
