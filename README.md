@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmendra Raj</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">An aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🌱 I’m currently learning **React and Bootstrap**
