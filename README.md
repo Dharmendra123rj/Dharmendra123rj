@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Dharmendra123rj)
 
-- 💬 Ask me about **Python,SQL,Excel,C/C++,HTML, CSS, Javascript.**
+- 💬 Ask me about **Python,SQL,Excel,C/C++,HTML, CSS, Javascript **
 
 - 📫 Reach me via **dharmendraraj776692@gmail.com**
 
