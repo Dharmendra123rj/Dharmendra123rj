@@ -10,7 +10,7 @@
 
 - 📫 Reach me via **dharmendraraj776692@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/10Ioi7DYl6EXIGGi4RI7TyvCQjxiNqwoc/view?usp=sharing )
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1Nn1NyUcdvrybx56qVfydzhQ2wVqkOdy9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
